@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the standard controls for an app from the SimpleAppFramework, so
+    it would not include things initialized for the workspace, which is
+    customizable.
+-->
+<properties>
+    <property_list>
+        <property name="APP_WINDOW_WIDTH" value="800"/>
+        <property name="APP_WINDOW_HEIGHT" value="550"/>
+        <property name="APP_TITLE" value="행멘"/>
+        <property name="APP_LOGO" value="Logo.png"/>
+        <property name="APP_PATH_CSS" value="css"/>
+        <property name="APP_CSS" value="hangman_style.css"/>
+        <property name="APP_SAVED_GAMES_PATH" value="work"/>
+
+        <!-- WORKSPACE CSS PROPERTIES -->
+        <property name="ROOT_BORDERPANE_ID" value="background"/>
+        <property name="TOP_TOOLBAR_ID" value="toolbar"/>
+        <property name="SEGMENTED_BUTTON_BAR" value="segmented-button-bar"/>
+        <property name="FIRST_TOOLBAR_BUTTON" value="first-toolbar-button"/>
+        <property name="LAST_TOOLBAR_BUTTON" value="last-toolbar-button"/>
+        <property name="HEADING_LABEL" value="heading-label"/>
+
+        <!-- PROGRAM ICON FILES -->
+        <property name="NEW_ICON" value="New.png"/>
+        <property name="LOAD_ICON" value="Load.png"/>
+        <property name="SAVE_ICON" value="Save.png"/>
+        <property name="EXIT_ICON" value="Exit.png"/>
+
+        <!-- TOOLTIPS FOR BUTTONS -->
+        <property name="NEW_TOOLTIP" value="새로운 게임을 시작합니다"/>
+        <property name="LOAD_TOOLTIP" value="저장된 게임을로드"/>
+        <property name="SAVE_TOOLTIP" value="게임을 저장"/>
+        <property name="EXIT_TOOLTIP" value="종료"/>
+
+        <!-- ERROR MESSAGES -->
+        <property name="CLOSE_BUTTON_TEXT" value="종료"/>
+
+        <property name="NEW_ERROR_TITLE" value="작성 오류"/>
+        <property name="NEW_ERROR_MESSAGE" value="오류가 새로운 게임을 시작 발생"/>
+        <property name="LOAD_ERROR_TITLE" value="로드 오류"/>
+        <property name="LOAD_ERROR_MESSAGE" value="오류가로드 저장된 게임을 발생"/>
+        <property name="SAVE_ERROR_TITLE" value="저장 오류"/>
+        <property name="SAVE_ERROR_MESSAGE" value="오류가 게임을 절약 발생"/>
+        <property name="PROPERTIES_LOAD_ERROR_TITLE" value="부동산의로드 오류"/>
+        <property name="PROPERTIES_LOAD_ERROR_MESSAGE" value="오류가 프로퍼티 파일을로드 발생했습니다."/>
+
+        <!-- VERIFICATION MESSAGES -->
+        <property name="NEW_COMPLETED_MESSAGE" value="새로운 게임 준비"/>
+        <property name="NEW_COMPLETED_TITLE" value="새 게임 생성"/>
+        <property name="LOAD_COMPLETED_MESSAGE" value="로드 게임"/>
+        <property name="LOAD_COMPLETED_TITLE" value="로드 완료"/>
+        <property name="SAVE_COMPLETED_MESSAGE" value="게임이 성공적으로 저장되었습니다"/>
+        <property name="SAVE_COMPLETED_TITLE" value="게임 저장"/>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE" value="당신은 지금까지 진행 상황을 저장 하시겠습니까?"/>
+        <property name="SAVE_UNSAVED_WORK_TITLE" value="진행 상황을 저장 하시겠습니까?"/>
+
+        <!-- GAME-SPECIFIC PARAMETERS -->
+        <property name="WORK_FILE_EXT" value="json"/>
+        <property name="WORK_FILE_EXT_DESC" value="게임 파일"/>
+        <property name="SAVE_WORK_TITLE" value="구하다"/>
+        <property name="LOAD_WORK_TITLE" value="로드 할 파일을 선택합니다"/>
+        <property name="GAME_WON_MESSAGE" value="당신이 이겼다."/>
+        <property name="GAME_LOST_MESSAGE" value="당신은 손실"/>
+        <property name="GAME_OVER_TITLE" value="게임 끝"/>
+
+    </property_list>
+    <property_options_list/>
+</properties>

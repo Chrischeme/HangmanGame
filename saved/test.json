@@ -1,0 +1,21 @@
+
+{
+    "TARGET_WORD":"diphysite",
+    "REMAINING_GUESSES":8,
+    "GOOD_GUESSES":[
+        {
+            "CHARACTER":104
+        },
+        {
+            "CHARACTER":105
+        },
+        {
+            "CHARACTER":121
+        }
+    ],
+    "BAD_GUESSES":[
+        {
+            "CHARACTER":106
+        }
+    ]
+}

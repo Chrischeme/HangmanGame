@@ -1,0 +1,36 @@
+
+{
+    "TARGET_WORD":"evanition",
+    "REMAINING_GUESSES":5,
+    "GOOD_GUESSES":[
+        {
+            "CHARACTER":97
+        },
+        {
+            "CHARACTER":101
+        },
+        {
+            "CHARACTER":105
+        },
+        {
+            "CHARACTER":111
+        }
+    ],
+    "BAD_GUESSES":[
+        {
+            "CHARACTER":113
+        },
+        {
+            "CHARACTER":115
+        },
+        {
+            "CHARACTER":119
+        },
+        {
+            "CHARACTER":103
+        },
+        {
+            "CHARACTER":109
+        }
+    ]
+}

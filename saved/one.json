@@ -1,0 +1,39 @@
+
+{
+    "TARGET_WORD":"towlines",
+    "REMAINING_GUESSES":5,
+    "GOOD_GUESSES":[
+        {
+            "CHARACTER":115
+        },
+        {
+            "CHARACTER":116
+        },
+        {
+            "CHARACTER":101
+        },
+        {
+            "CHARACTER":119
+        },
+        {
+            "CHARACTER":108
+        },
+        {
+            "CHARACTER":111
+        }
+    ],
+    "BAD_GUESSES":[
+        {
+            "CHARACTER":97
+        },
+        {
+            "CHARACTER":98
+        },
+        {
+            "CHARACTER":104
+        },
+        {
+            "CHARACTER":109
+        }
+    ]
+}

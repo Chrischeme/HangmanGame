@@ -1,0 +1,39 @@
+
+{
+    "TARGET_WORD":"chronographer",
+    "REMAINING_GUESSES":4,
+    "GOOD_GUESSES":[
+        {
+            "CHARACTER":97
+        },
+        {
+            "CHARACTER":101
+        },
+        {
+            "CHARACTER":103
+        },
+        {
+            "CHARACTER":110
+        },
+        {
+            "CHARACTER":111
+        }
+    ],
+    "BAD_GUESSES":[
+        {
+            "CHARACTER":98
+        },
+        {
+            "CHARACTER":102
+        },
+        {
+            "CHARACTER":119
+        },
+        {
+            "CHARACTER":105
+        },
+        {
+            "CHARACTER":106
+        }
+    ]
+}
